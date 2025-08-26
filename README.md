@@ -3,4 +3,5 @@
 ## Demo: https://itz-nisanth.github.io/piano/
 
 WHITE KEYS = z, x, c, v, b, n, m
+
 BLACK KEYS = s, d, g, h, j
